@@ -14,8 +14,6 @@ function App() {
         <main>
         <Header />
         <Post />
-        <Post />
-        <Post />
         </main>
       } />
       <Route path={'./login'} element={
